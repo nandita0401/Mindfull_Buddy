@@ -57,7 +57,7 @@ Watch the walkthrough demo here: https://youtu.be/U9weT5SD3tk
 
 ## 🧑‍💻 Author
 
-**Nandita** – [LinkedIn](https://www.linkedin.com/in/nanditabharambe/) | AI/ML + Web Developer + Wellness Tech Advocate  
+**Nandita** – [LinkedIn](https://www.linkedin.com/in/nanditabharambe/) | AI/ML Engineer + Software Developer + Data Analyts + Wellness Tech Advocate  
 Built as part of a hands-on AI project to support emotional wellbeing and mindful design.
 
 ---
