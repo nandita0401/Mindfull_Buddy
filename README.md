@@ -24,9 +24,7 @@
 
 ## 🎬 Demo Video
 
-Watch the walkthrough demo here:
-
-(https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+Watch the walkthrough demo here: https://youtu.be/U9weT5SD3tk
 
 ---
 
